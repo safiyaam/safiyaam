@@ -13,6 +13,7 @@ Career Goals: I aspire to become a software engineer specializing in front-end d
 ---
 
 ## 🚀 Projects
+
 Work in Progress
 I'm currently developing several personal projects that combine my interests in development and UX design. These projects are in active development and will be showcased here once they're ready for public viewing.
 Upcoming Projects:
@@ -32,6 +33,7 @@ Created a traffic simulation system demonstrating inheritance and polymorphism
 
 
 ## 💻 Skills
+
 Programming Languages: PYTHON & JAVA
 
 Design Tools: FIGMA & ABOBE
@@ -49,6 +51,7 @@ Problem Solving & Algorithm Design
 
 
 ## 📚 Experience
+
 University of Washington - Computer Science Student
 September 2024 - Present
 
@@ -59,6 +62,7 @@ Exploring the intersection of development and design through personal projects
 ---
 
 ## 📄 Resume
+
 <!--
 **safiyaam/safiyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
