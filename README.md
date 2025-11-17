@@ -62,7 +62,7 @@ Exploring the intersection of development and design through personal projects
 ---
 
 ## 📄 Resume
-
+[View My Resume](./RESUME.pdf)
 <!--
 **safiyaam/safiyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
