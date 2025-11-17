@@ -7,7 +7,9 @@ Aspiring (Developer / UX desinger)
 I am a CS student with strong expertise in Java and Python, along with experience in building user experience and interactive design.
 
 ✨ Student of life :)
+
 🌱 I love to learn and grow my technical expertise
+
 💻 Visit my Portfolio for more details about me.
 <!--
 **safiyaam/safiyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
