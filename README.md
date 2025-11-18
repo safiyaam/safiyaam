@@ -5,14 +5,14 @@ Hi there 👋
 Aspiring (Developer / UX desinger)
 
 
-## 👋 About Me
+##  About Me
 I'm a computer science student at the University of Washington, passionate about software development and UX design. I enjoy creating applications that are not only functional but also provide intuitive and engaging user experiences.
 Interests: Software Development, UX/UI Design, User-Centered Design
 Career Goals: I aspire to become a software engineer specializing in front-end development and user experience, where I can bridge the gap between technical implementation and thoughtful design to create products that people love to use.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Work in Progress
 I'm currently developing several personal projects that combine my interests in development and UX design. These projects are in active development and will be showcased here once they're ready for public viewing.
@@ -32,7 +32,7 @@ Created a traffic simulation system demonstrating inheritance and polymorphism
 ---
 
 
-## 💻 Skills
+##  Skills
 
 Programming Languages: PYTHON & JAVA
 
@@ -50,7 +50,7 @@ Problem Solving & Algorithm Design
 ---
 
 
-## 📚 Experience
+##  Experience
 
 University of Washington - Computer Science Student
 September 2024 - Present
