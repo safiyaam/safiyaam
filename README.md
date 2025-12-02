@@ -1,9 +1,4 @@
-WELCOME TO MY PORTFOLIO!(: 
-
-Hi there 👋
-ɪ'ᴍ Safiya!
-Aspiring (Developer / UX desinger)
-
+WELCOME TO MY PORTFOLIO!
 
 ##  About Me
 I'm a computer science student at the University of Washington, passionate about software development and UX design. I enjoy creating applications that are not only functional but also provide intuitive and engaging user experiences.
@@ -15,14 +10,13 @@ Career Goals: I aspire to become a software engineer specializing in front-end d
 ##  Projects
 
 Work in Progress
-I'm currently developing several personal projects that combine my interests in development and UX design. These projects are in active development and will be showcased here once they're ready for public viewing.
-Upcoming Projects:
+I have three OOP programs as well as a mock up of a app i designed and researched. Here is my porfolio https://uofwastudents.my.canva.site/welcome-to
 
 UX-Focused Web Application: Building a user-friendly web app with emphasis on intuitive design and accessibility
 Personal Portfolio Enhancement: Developing interactive prototypes and design systems
 Academic Projects: Completing coursework projects in data structures and software development
 
-Recent Coursework
+
 TCSS305 - Programming Practicum
 
 Developed object-oriented applications using Java
@@ -46,18 +40,6 @@ UX/UI Design Principles
 User Interface Prototyping
 Visual Design
 Problem Solving & Algorithm Design
-
----
-
-
-##  Experience
-
-University of Washington - Computer Science Student
-September 2024 - Present
-
-Enrolled in a rigorous computer science curriculum focusing on software development and programming fundamentals
-Actively developing technical skills through hands-on projects and coursework
-Exploring the intersection of development and design through personal projects
 
 ---
 
