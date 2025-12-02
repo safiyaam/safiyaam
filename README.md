@@ -47,8 +47,7 @@ Problem Solving & Algorithm Design
 [View My Resume](./RESUME.pdf)
 
 ## Contact
-My contact information is included within my resume.
-
+Email: Safiyam@uw.edu             LinkedIn: https://www.linkedin.com/in/safiyaaam/
 <!--
 **safiyaam/safiyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
